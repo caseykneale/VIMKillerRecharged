@@ -1,0 +1,15 @@
+[package]
+name = "VIMKillerRecharged"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+
+[dependencies]
+whisper-rs = "0.13.2"
+anyhow = "1.0"
+cpal = "0.15.3"
+clap = { version = "4.5.13", features = ["derive"] }
+ringbuffer = "0.15.0"
+rubato = "0.16.1"
+chrono = "0.4.39"
+shutil = "0.1.2"
