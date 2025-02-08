@@ -15,7 +15,7 @@ Voice of customer analysis from early adopters of VIMKiller (v1) showed that mos
 
 We considered a word cloud to get the point across but because we need a technical audience to understand the benefits of the new release so a bulletpoint list will have to suffice. We need word of mouth about our newest solution to "cross the chasm" and go "viral".
 
- - Written in memory safe Rust with very few unsafe dependencies so that we can offer blazingly fast unoptimized performance.
+ - Written in memory safe Rust with very few unsafe dependencies so that we can offer both secure execution and blazingly fast unoptimized performance.
  - We have introduced code words. You do not need to say "HELP ME EXIT VIM" to exit VIM. No. Infact the default but configurable code-word is "The octopus has escaped". Your colleagues will never know something out of the ordinary has occurred after saying that. No red button. No USB port consumed. Just you and your computer microphone.
  - The tool uses open source Generative AI models made by a company operating in the defense sector (fact check that? we actually aren't sure). This tool allows you to use the best of VIM offensive technology to most of the time use your voice to exit VIM. *We are not responsible for hallucinations. Thats probably considered a feature not a bug when it comes to mission critical applications.*
  - No additional hard-ware required! *If your default computer microphone is a stereo microphone with a 44,100 Hz sampling rate and you are running linux on a big enough computer this might work for you out of the box.*
